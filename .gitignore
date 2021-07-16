@@ -1,6 +1,8 @@
 ### Java template
 *.class
 
+
+
 ## Docker Stuff
 **/.devcontainer
 *.env
@@ -8,7 +10,7 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
-# DS_Store
+DS_Store
 **.DS_Store
 
 # Package Files #
